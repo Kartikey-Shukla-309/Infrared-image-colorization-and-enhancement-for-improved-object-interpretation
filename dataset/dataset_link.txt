@@ -1,0 +1,6 @@
+Drive link for Dataset - 
+
+https://drive.google.com/drive/folders/10JT80xRS_5dk8w_QaVr422-mTxAJSeu0?usp=drive_link
+
+
+It contains 400 samples of various terrains like rivers, lakes, mountains, forests, vegetations, deserts, urban cities etc. 
